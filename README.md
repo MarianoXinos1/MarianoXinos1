@@ -2,7 +2,7 @@
 
                                                                               
  
-<h4 align="center">I'm a passionate Junior Fullstack Developer currently seeking new challenges to improve my skills and grow. I'm committed to exploring innovative solutions, embracing feedback, and contributing positively to the development community.</h4> 
+<h4 align="center">I'm a passionate Junior Fullstack Developer currently seeking for new challenges to improve my skills and grow. I'm committed to exploring innovative solutions, embracing feedback, and contributing positively to the development community.</h4> 
 
 
 - 🌍  I'm based in La Rioja, Argentina
