@@ -11,7 +11,7 @@
 
 - ⚡  I love coding, reading books and lifting weights.
 
-- 📫 Reach out to me: **mxinos@hotmail.com**
+- 📫 Reach out to me: **xinosmariano@gmail.com**
   
 - 💬 ask me about anything, i am happy to help;
 
