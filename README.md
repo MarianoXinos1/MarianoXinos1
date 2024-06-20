@@ -1,5 +1,5 @@
 
-# <a href=""><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=38&duration=3000&pause=1000&color=3175F7FFC&vCenter=true&random=true&width=650&height=40&lines=Hello+I'm+ a+Junior+Developer;%2B1+Year+Coding;Always+Learning+New+Things" alt="Typing SVG" /></a>
+# <a href=""><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=38&duration=3000&pause=1000&color=3175F7FFC&vCenter=true&random=true&width=650&height=35&lines=Hello+I'm+ a+Junior+Developer;%2B1+Year+Coding;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
                                                                            
 <h4 align="left">I'm a passionate Junior Fullstack Developer currently seeking for new challenges to improve my skills and grow. I'm committed to exploring innovative solutions, embracing feedback, and contributing positively to the development community.</h4> 
