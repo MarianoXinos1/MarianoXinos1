@@ -6,7 +6,7 @@
 
 ###   Technologies And Tools
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,vite,mysql,postman,git&perline=10&theme=dark" alt="PostgreSQL badge" >
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,sequelize,html,css,react,vite,mysql,postman,git&perline=10&theme=dark"  >
 </p>
 
 ### Latest Projects:
