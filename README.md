@@ -5,7 +5,7 @@
 
 ###   Technologies And Tools
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i= react,js,nodejs,express,sequelize,html,css,tailwind,vite,mysql,postman,git&perline=10&theme=dark"  >
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,tailwind,html,css,vite,postman,git&perline=10&theme=dark"  >
 </p>
 
 ### Latest Projects:
