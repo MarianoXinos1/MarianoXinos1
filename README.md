@@ -10,7 +10,7 @@
 
 ### Latest Projects:
 
-- 💻 Check out my website https://portfolio-mx.vercel.app/
+- 💻 Check out my website 
 - 🤝🏻 I'm currently looking for a job.
 
 
